@@ -1,0 +1,72 @@
+
+
+.bookbox{
+	height:650px;
+	width:auto;
+	background-image: url("../images/haircut.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	  background-size: cover;
+}
+
+
+.pricing{
+	margin-top: 10%;
+	font-size: 3.5em;
+	margin-bottom: 5%;
+}
+
+.boxquote{
+	padding-top: 12%;
+	margin-left:5%;
+	font-weight: 800;
+	text-shadow: .5px .5px #CCAC00;
+	font-family: 'Great Vibes',cursive;
+		color: white;
+		font-size:5.5em;
+
+}
+
+.boxquote2{
+	font-weight: 800;
+	text-shadow: .5px .5px #CCAC00;
+	font-family: 'Great Vibes',cursive;
+	color: white;
+	font-size:5.5em;
+	margin-left: 15%;
+
+}
+
+.bbook,a.bbook:link,a.bbook:hover,a.bbook:active {
+	border-radius: 10%;
+	background-color:#6fa5fc;
+	margin-top:5%;
+	margin-left: 23%;
+	text-decoration: none;
+	color:white;
+	border: none;
+	font-size: 25px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.listprice{
+	margin-top: -1px;
+	margin: -10px;
+	color:white;
+	font-family: 'Great Vibes',cursive;
+	font-size:40px;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+.pole1{
+	margin-top:-480px;
+}
+.pole2{
+	margin-top: -30%;
+	float: right;
+}
+
+
+
+

@@ -1,0 +1,361 @@
+
+
+
+
+body{
+	background-color:black;
+
+}
+
+
+
+
+.container{
+	margin-top: 50px;
+
+
+}
+
+
+.HomeButton,a.HomeButton:link,a.HomeButton:hover{
+	color:  #CCAC00;
+	margin-top: 70px;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes',;
+	text-decoration: none;
+}
+
+
+
+
+.AboutButton,a.AboutButton:link,a.AboutButton:hover {
+
+	color:  #CCAC00;
+	margin-top: 70px;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes',;
+	 text-decoration: none;
+
+}
+
+
+.PricingButton,a.PricingButton:Link,a.PricingButton:hover{
+	color:  #CCAC00;
+	margin-top: 70px;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes',;
+	text-decoration: none;
+}
+
+.GalleryButton,a.GalleryButton:Link,a.GalleryButton:hover{
+	color:  #CCAC00;
+	margin-top: 70px;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes',;
+		text-decoration: none;
+}
+
+
+
+
+.blackbox2{
+	background-color: black;
+	height: 500px;
+}
+
+
+
+
+h1{
+	color:  #CCAC00;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	letter-spacing: 4px;
+	font-size: 4.0em;
+	margin-bottom: -15px;
+
+}
+
+
+
+
+.col-md-1{
+
+	color:#CCAC00;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+}
+
+.TitleMain{
+
+	text-align: center;
+	color:  #CCAC00;
+	font-weight: 800;
+	text-shadow: .5px .5px #fcfbf9 ;
+	font-family: 'Great Vibes',;
+	letter-spacing: 3px;
+	margin-top: -15px;
+	margin-bottom: 80px;
+
+}
+
+
+
+hr{
+	width:400px;
+	    opacity: 0.5;
+	
+}
+
+
+.glyphicon-tower{
+	margin-left: 1%;
+	font-size: 40px;
+	}
+
+
+
+.HomeImage{
+	height:500px;
+ 	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/barbershop.png");
+    margin-top: -50px;
+}
+
+
+.BarberTitle{
+
+margin-top: 150px;
+text-shadow: .5px .5px #fcfbf9 ;
+
+}
+
+
+
+.BarberPhotos{
+	margin-top: -35%;
+}
+
+
+
+.Imageb1{
+  display: block;
+  width: 300px;
+  height: 350px;
+  border-radius: 40%;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+
+
+
+.Imageb2{
+	width: 300px;
+	height: 350px;
+	border-radius: 40%;
+	margin-top: 100px;
+}
+
+
+.Imageb3{
+	width: 300px;
+	height: 350px;
+	border-radius: 40%;
+	margin-top: 100px;
+}
+
+.Bio1{
+
+	margin-left: 230px;
+	line-height: 50%;
+	color:#CCAC00;
+	text-shadow: .5px .5px #fcfbf9 ;
+	margin-top: 10px;
+}
+
+.Bio1H{
+		color:#CCAC00;
+		margin-top:
+		margin-bottom: 10px;
+		margin-left:16%;
+}
+
+
+.Bio2H{
+	color:#CCAC00;
+		margin-left: 42%;
+		margin-top:-80px;
+
+}
+
+.Bio2{
+	color:#CCAC00;
+	text-shadow: .5px .5px #fcfbf9 ;
+	line-height: 8.0px;
+	margin-left: 610px;
+}
+
+
+.Bio3{
+color:#CCAC00;
+text-shadow: .5px .5px #fcfbf9 ;
+line-height: 8.0px;
+	margin-left: 1020px;
+}
+
+
+
+.OurB{
+	margin-top: auto;
+
+}
+
+.Bio3H{
+color:#CCAC00;
+	margin-left: 1020px;
+	margin-top:-90px;
+	
+
+}
+
+
+
+.Graybox{
+
+width:80%;
+height: 400px;
+background-color:#2A2A2A;
+margin:auto;
+border-radius: 10%;
+margin-top: 80px;
+
+}
+
+
+
+.BlackCR{
+
+	background-color: #C2C2C2;
+	height:330px;
+	width:1px;
+	margin-top:50px;
+	margin-right: 300px;
+	float:right;
+	text-shadow: .5px .5px #fcfbf9 ;
+
+}
+
+
+
+.BlackCL{
+		background-color: #C2C2C2;
+	height:330px;
+	width:1px;
+	margin-top:50px;
+	margin-left: 300px;
+	float:left;
+text-shadow: .5px .5px #fcfbf9 ;
+}
+
+
+
+ul{
+	margin-top: 20%;
+	margin-bottom:-32%;
+	margin-left: 15%;
+	list-style-type: none;
+}
+
+li{
+
+  margin: 20px 0;
+}
+
+
+
+.News{
+float:right;
+margin-right: -190px;
+font-weight: 800;
+font-family: 'Great Vibes',;
+color:  #CCAC00;
+
+}
+
+
+
+.award{
+
+	height:300px;
+	width:auto;
+	float:right;
+	margin-right:-310px;
+	margin-top: 80px;
+}
+
+
+.Map{
+
+	height:200px;
+	width:auto;
+	margin-left:36%;
+	margin-top:-34%;
+}
+
+
+.AboutUsB
+{
+font-weight: 800;
+font-family: 'Great Vibes',;
+color:  #CCAC00;
+float:right;
+margin-right: 250px;
+
+	}
+
+
+.Contact{
+
+font-family: 'Great Vibes',;
+color:  #CCAC00;
+line-height: 10px;
+margin-left: 420px;
+font-size: 13px;
+margin-top:-80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
